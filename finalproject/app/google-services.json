@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "674163513108",
+    "firebase_url": "https://mycollegediscovery.firebaseio.com",
+    "project_id": "mycollegediscovery",
+    "storage_bucket": "mycollegediscovery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674163513108:android:83baad12388055e1",
+        "android_client_info": {
+          "package_name": "com.example.culpe.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674163513108-7b02c8641p82osq8nohjjgd31qp6achf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.culpe.finalproject",
+            "certificate_hash": "54a7ece51b9f56bec04f60a6147068174d1282ec"
+          }
+        },
+        {
+          "client_id": "674163513108-cu4g56pot7j3n7joia444ngqv3ov7vdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPGIDgrkkOvKxO4RTuBoo1upFDfD1Hef0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674163513108-cu4g56pot7j3n7joia444ngqv3ov7vdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674163513108:android:99ed2d1316b255ff",
+        "android_client_info": {
+          "package_name": "com.example.culpe.mycollegediscovery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674163513108-m5nvaqn0faghrqoeos3je8086en8cs0c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.culpe.mycollegediscovery",
+            "certificate_hash": "54a7ece51b9f56bec04f60a6147068174d1282ec"
+          }
+        },
+        {
+          "client_id": "674163513108-cu4g56pot7j3n7joia444ngqv3ov7vdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPGIDgrkkOvKxO4RTuBoo1upFDfD1Hef0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674163513108-cu4g56pot7j3n7joia444ngqv3ov7vdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
